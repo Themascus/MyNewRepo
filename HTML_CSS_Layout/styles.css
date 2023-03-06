@@ -1,0 +1,110 @@
+body{
+    background-color: antiquewhite;
+}
+
+/*homepage*/
+body.home {
+    background-image: url(image/base_one.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 960px;
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+}
+
+
+.title,
+.lower {
+    height: auto;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    font-family: sans-serif;
+    display: block;
+
+
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+÷
+
+.quote{
+    text-align: center;
+    height: 100px;
+    padding: 300px;
+    position: fixed;
+}
+
+
+
+
+p {
+    text-align: center;
+}
+
+* {
+    font-family: sans-serif;
+    color: #6B4620;
+    text-align: center;
+}
+
+#nav,
+#feature,
+.article,
+#footer, .lower{
+    background-color: #EBD2BC;
+    margin-top: 20px;
+    padding: 10px 0px 5px 0px;
+    width: 100%;
+}
+
+
+#feature,
+. article {
+    height: 100px;
+}
+
+/*PageLookbook*/
+
+.pic1 {
+    margin: auto;
+    height: 200;
+    width: 200;
+
+}
+
+#Lookbook {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*About Page*/
+
+}
+
+.About{
+    width: 100px;
+    height:auto;
+    padding-top: 60px;
+    
+}
+
+.logo{
+    float:left;
+}
+
+.Descript{
+    align-content: center;
+    margin: 100px;
+    
+    
+    
+}
